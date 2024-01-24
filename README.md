@@ -1,5 +1,5 @@
-# Spam Detection using Artificial Intelligence
-This repository is written in Python and uses artificial intelligence algorithms to detect spam emails.
+# Spam Detection using machine learning
+This repository is written in Python and uses machine learning algorithms to detect spam emails.
 
 ## Features
 
